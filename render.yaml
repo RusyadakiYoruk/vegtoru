@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: redirect-app
+    name: vegtoru
     runtime: static
     staticPublishPath: .
     headers:
